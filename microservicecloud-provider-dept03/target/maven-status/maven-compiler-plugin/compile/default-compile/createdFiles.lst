@@ -1,0 +1,4 @@
+com\ximen\microservicecloud\dao\DeptMapper.class
+com\ximen\microservicecloud\controller\DeptController.class
+com\ximen\microservicecloud\service\DeptService.class
+com\ximen\microservicecloud\DeptProvider03_App.class

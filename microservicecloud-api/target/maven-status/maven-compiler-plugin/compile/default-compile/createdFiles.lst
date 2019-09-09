@@ -1,0 +1,3 @@
+com\ximen\microservicrcloud\service\DeptService.class
+com\ximen\microservicrcloud\entity\Dept.class
+com\ximen\microservicrcloud\service\DeptClientServiceFallbackFactory.class
